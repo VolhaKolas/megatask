@@ -1,0 +1,11 @@
+.message {
+    margin: auto;
+    margin-top: 5px;
+    margin-left: 20px;
+    color: navy;
+    text-align: center;
+    height: 10px;
+    margin-bottom: 15px;
+    min-width: 400px;
+    max-width: 1000px;
+}
